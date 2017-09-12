@@ -1,0 +1,1 @@
+ftype jarfile=C:\PROGRA~1\WinZip\winzip32.exe "%1"

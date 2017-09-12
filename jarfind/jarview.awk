@@ -1,0 +1,1 @@
+/[.]class/{ gsub("/",".");print  jarname ":" $0}
